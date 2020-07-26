@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8552d508-ec90-4081-acfa-51bff21cb5d1" name="Default Changelist" comment="" />
+    <list default="true" id="8552d508-ec90-4081-acfa-51bff21cb5d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NIOclient/files/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NIOclient/src/main/java/NIOClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/NIOclient/src/main/java/NIOClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/NIOServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/NIOServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/NIOServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/NIOServer.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fBMLcmWYojasywvqr6nmvSScR7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +33,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NIOclient/src/main/java" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Courses\NIOstorage\NIOclient\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Courses\NIOstorage\NIOclient\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NIOClient">
+    <configuration name="NIOClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NIOClient" />
+      <module name="NIOclient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NIOServer" />
       <module name="server" />
@@ -31,8 +59,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.NIOClient" />
+      <item itemvalue="Application.NIOServer" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NIOClient" />
         <item itemvalue="Application.NIOServer" />
       </list>
     </recent_temporary>
@@ -51,25 +84,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1595752788082">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595755583952">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595752788082" />
-    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1595752788081">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1595755583952" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595792422819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595752788081" />
-    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1595752788081">
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595792422819" />
+    <state width="1323" height="66" key="GridCell.Tab.0.bottom" timestamp="1595793445005">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595752788081" />
-    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1595752788081">
+    <state width="1323" height="66" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595793445005" />
+    <state width="1323" height="66" key="GridCell.Tab.0.center" timestamp="1595793445005">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595752788081" />
-    <state x="65" y="60" key="new project wizard" timestamp="1595687216537">
+    <state width="1323" height="66" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595793445005" />
+    <state width="1323" height="66" key="GridCell.Tab.0.left" timestamp="1595793445005">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="60" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595687216537" />
+    <state width="1323" height="66" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595793445005" />
+    <state width="1323" height="66" key="GridCell.Tab.0.right" timestamp="1595793445005">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="66" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595793445005" />
+    <state x="65" y="60" key="new project wizard" timestamp="1595790338196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="60" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595790338196" />
   </component>
 </project>
